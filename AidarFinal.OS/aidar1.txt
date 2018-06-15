@@ -1,0 +1,13 @@
+1 What is NOT a system CALL?
+A. B call to the system
+B. B function call that invokes the operating system to take some action
+C. B call to the operating system
+
+B
+
+2 Mona is the best?
+A. Yes
+B. Absolutely
+
+A
+
